@@ -1,3 +1,3 @@
 # teste-login-com-selenium
 
-Aqui testamos com login com o site de testes da saucedemo
+Aqui testamos com login o site de testes da saucedemo
